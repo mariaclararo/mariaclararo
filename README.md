@@ -5,9 +5,9 @@
 🌱 I’m currently learning: Digital Systems Design, Applied AI & Machine Learning and advanced Web Architectures.
 ##
 <div align="center">
-  <img align="right" src="ezgif.com-gif-maker.gif" height="200" alt="Avatar Maria Clara" />
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=mariaclararo&show_icons=true&include_all_commits=true&theme=moltack" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclararo&layout=normal&hide_progress=true&theme=moltack" />
+  <img align="right" src="ezgif.com-gif-maker.gif" height="200" alt="Avatar Maria Clara" />
 </div>
 &nbsp;&nbsp;&nbsp;
 
