@@ -4,8 +4,6 @@
 
 🌱 I’m currently learning: Digital Systems Design, Applied AI & Machine Learning and advanced Web Architectures.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariacrr)
-
 <div align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=mariaclararo&show_icons=true&theme=moltack" />
   
