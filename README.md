@@ -7,7 +7,7 @@
 <div align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=mariaclararo&show_icons=true&include_all_commits=true&theme=moltack" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclararo&layout=normal&hide_progress=true&theme=moltack" />
-  <img align="right" src="ezgif.com-gif-maker.gif" height="200" alt="Avatar Maria Clara" />
+  <img align="right" src="ezgif.com-gif-maker.gif" height="100" alt="Avatar Maria Clara" />
 </div>
 &nbsp;&nbsp;&nbsp;
 
