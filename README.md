@@ -7,6 +7,7 @@
 <div align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=mariaclararo&show_icons=true&include_all_commits=true&theme=moltack" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclararo&layout=normal&hide_progress=true&theme=moltack" />
+  <img align="right" src="ezgif.com-animated-gif-maker.gif" height="100" alt="Avatar Maria Clara" />
 </div>
 &nbsp;&nbsp;&nbsp;
 
@@ -28,10 +29,6 @@
   &nbsp;
   <img height="30" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   &nbsp;
-  <img height="30" alt="colab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
-  &nbsp;
-  <img height="30" alt="haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-  &nbsp;
   <img height="30" alt="scikitlearn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   &nbsp;
   <img height="30" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -46,7 +43,8 @@
   &nbsp;
   <img height="30" alt="prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  />
   &nbsp;
-  <img height="30" alt="latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />    
+  <img height="30" alt="latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />  
+  
 </div>
 
 ##
