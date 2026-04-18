@@ -1,11 +1,11 @@
-## Hi, I'm Maria Clara Ribeiro!
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=fdf0d5&text=Hi!%20I'm%20Maria%20Clara%20:)&height=120&fontSize=60" /></p>
 
 🔭 I’m working on a range of projects, from developing a custom RISC-V SoC on FPGA to building scalable Full-stack software solutions.
 
 🌱 I’m currently learning: Digital Systems Design, Applied AI & Machine Learning and advanced Web Architectures.
 ##
 
-<img align="right" src="ezgif.com-gif-maker.gif" height="250" alt="Avatar Maria Clara" />
+<img align="right" src="ezgif.com-gif-maker.gif" height="200" alt="Avatar Maria Clara" />
 <div align="left">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=mariaclararo&show_icons=true&include_all_commits=true&theme=moltack" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclararo&layout=normal&hide_progress=true&theme=moltack" />
