@@ -13,7 +13,7 @@
 </div>
 &nbsp;&nbsp;&nbsp;
 
-<div align="center">
+<div align="left">
   <img height="30" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   &nbsp;
   <img height="30" alt="cEmbarcado" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
