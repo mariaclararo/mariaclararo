@@ -7,8 +7,8 @@
 
 <img align="right" src="ezgif.com-gif-maker.gif" height="175" alt="Avatar Maria Clara" />
 <div align="left">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=mariaclararo&show_icons=true&include_all_commits=true&theme=moltack" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclararo&layout=normal&hide_progress=true&theme=moltack" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariaclararo&theme=moltack" alt="GitHub Stats Summary"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclararo&theme=moltack" alt="Top Languages by Repo"/>
   
 </div>
 &nbsp;&nbsp;&nbsp;
