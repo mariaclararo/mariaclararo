@@ -7,9 +7,8 @@
 
 <img align="right" src="ezgif.com-gif-maker.gif" height="183" alt="Avatar Maria Clara" />
 <div align="left">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariaclararo&theme=moltack" alt="GitHub Stats Summary"/>
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclararo&theme=moltack" alt="Top Languages by Repo"/>
-  
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariaclararo&theme=solarized" alt="GitHub Stats Summary"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclararo&theme=solarized" alt="Top Languages by Repo"/>
 </div>
 &nbsp;&nbsp;&nbsp;
 
@@ -29,16 +28,6 @@
   <img height="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   &nbsp;
   <img height="30" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  />
-  &nbsp;
-  <img height="30" alt="latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-  &nbsp;
-  <img height="30" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  &nbsp;
-  <img height="30" alt="scikitlearn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  &nbsp;
-  <img height="30" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  />
-  &nbsp;
-  <img height="30" alt="prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  />
   &nbsp;
 </div>
 
